@@ -29,7 +29,7 @@ Markdown est un langage de balisage léger utilisé pour formater du texte brut 
 
 
 ## Image statique
-![Logo Markdown](https://www.kamailio.org/w/wp-content/uploads/2022/05/markdown-logo.jpeg)
+![Logo Markdow](https://www.kamailio.org/w/wp-content/uploads/2022/05/markdown-logo.jpeg)
 
 ## Image animée
 ![GIF animé](https://i.gifer.com/XIb.gif)
