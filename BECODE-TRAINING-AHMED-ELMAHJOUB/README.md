@@ -7,7 +7,7 @@ Markdown est un langage de balisage léger utilisé pour formater du texte brut 
 - **Sans**SUCRE
 
 ## Liste non exaustive de mes animaux preferer 
-1. Chat
+1. CHAT
 2. CHAT
 3. CHAT
 
