@@ -12,3 +12,6 @@ Il y a des boîtes aux lettres spéciales appelées "routeurs" le long de ces ro
 Lorsque vos paquets atteignent leur destination, comme un site Web, l'ordinateur à l'autre bout les rassemble pour former la page que vous voyez sur votre écran. C'est comme si vous envoyiez un puzzle dans une boîte, et une fois qu'il arrive, il est assemblé pour montrer une image.
 
 Donc, la prochaine fois que vous utiliserez Internet, rappelez-vous que derrière l'écran, il y a tout un réseau de routes secrètes, d'ordinateurs et de routeurs qui travaillent ensemble pour vous permettre de faire toutes sortes de choses géniales en ligne. C'est comme une grande aventure virtuelle ! 🌐😃
+
+----
+## this theory file has been reviewed by Alexander ! 😃
